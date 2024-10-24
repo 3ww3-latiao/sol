@@ -1,0 +1,12 @@
+{
+    "name": "SOL Larb",
+    "symbol": "SOLLARB",
+    "description": "Sol larb token",
+    "image": "https://raw.githubusercontent.com/3ww3-latiao/sol/main/assets/demo-token.png",
+    "attributes": [
+        {
+            "trait_type": "Item",
+            "value": "Sol Larb"
+        }
+    ]
+}
