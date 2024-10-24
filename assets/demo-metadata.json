@@ -2,7 +2,7 @@
     "name": "SOL Larb",
     "symbol": "SOLLARB",
     "description": "Sol larb token",
-    "image": "https://raw.githubusercontent.com/3ww3-latiao/sol/refs/heads/main/assets/demo-token.png",
+    "image": "https://raw.githubusercontent.com/3ww3-latiao/sol/refs/heads/main/assets/image.png",
     "attributes": [
         {
             "trait_type": "Item",
